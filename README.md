@@ -1,4 +1,4 @@
-# bothwing
+# ALL Image Downloader
 ![image](https://user-images.githubusercontent.com/28355720/235342393-1c499a14-70ee-4f15-8ea1-1cc0ea8af344.png)
 
 	Windows Version		Download2
